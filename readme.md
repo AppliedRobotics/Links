@@ -7,6 +7,6 @@
 
 # Файлы обновления для модулей Applied Robotics
 ## Инструкция по обновлению [Ссылка](https://disk.yandex.ru/i/xmmrCy5__QCDaA)
-## Файл сетевого обновления контроллера со встроенной пневмосистемой [Ссылка](https://disk.yandex.ru/d/u1Q90oB9guakaQ)
-## Файл сетевого обновления универсального робототехнического контроллера STEMBoard [Ссылка](https://disk.yandex.ru/d/P_7dyPVfhJRR2A)
-## Файл сетевого обновления модуля TrackingCam v3 [Ссылка](https://disk.yandex.ru/d/ZTh6VZh1nAvGdA)
+## Файл сетевого обновления контроллера со встроенной пневмосистемой [Ссылка](https://disk.yandex.ru/d/_AGoyda6GvAIdw)
+## Файл сетевого обновления универсального робототехнического контроллера STEMBoard [Ссылка](https://disk.yandex.ru/d/iWXPaLGvVR0EpA)
+## Файл сетевого обновления модуля TrackingCam v3 [Ссылка](https://disk.yandex.ru/d/4J_pNFSafwOQQA)
