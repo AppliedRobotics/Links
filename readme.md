@@ -6,7 +6,7 @@
 ## 3. Тестовые скетчи для платформы Outdoor [Ссылка](https://disk.yandex.ru/d/mLkecNHgV5yHJg)
 
 # Файлы обновления для модулей Applied Robotics
-## Инструкция по обновлению [Ссылка](https://disk.yandex.ru/i/xmmrCy5__QCDaA)
+## Инструкция по обновлению [Ссылка(версия ПО 3.Х.Х)](https://disk.yandex.ru/i/xmmrCy5__QCDaA) [Ссылка(версия ПО 2.Х.Х)](https://disk.yandex.ru/i/xmmrCy5__QCDaA)
 ## Файл сетевого обновления контроллера со встроенной пневмосистемой [Ссылка](https://disk.yandex.ru/d/-IcGt5Wo3HFkbw)
 ## Файл сетевого обновления универсального робототехнического контроллера STEMBoard [Ссылка](https://disk.yandex.ru/d/fdHu0XS-spFyCA)
 ## Файл сетевого обновления модуля TrackingCam v3 [Ссылка](https://disk.yandex.ru/d/iBqMLeIYJRX02A)
